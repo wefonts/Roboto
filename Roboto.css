@@ -117,3 +117,52 @@
     font-style: italic;
     font-display: swap;
 }
+
+
+.Roboto {
+    font-family: "Roboto";
+}
+.Roboto400 {
+    font-family: "Roboto-normal";
+    font-weight: 400;
+}
+.Roboto700 {
+    font-family: "Roboto-bold";
+    font-weight: 700;
+}
+.Robotorelative {
+    font-family: "Roboto-bolder";
+    font-weight: relative;
+}
+.Robotorelative {
+    font-family: "Roboto-lighter";
+    font-weight: relative;
+}
+.Roboto100 {
+    font-family: "Roboto-thin";
+    font-weight: 100;
+}
+.Roboto200 {
+    font-family: "Roboto-extra light";
+    font-weight: 200;
+}
+.Roboto300 {
+    font-family: "Roboto-light";
+    font-weight: 300;
+}
+.Roboto600 {
+    font-family: "Roboto-medium";
+    font-weight: 500;
+}
+.Roboto200 {
+    font-family: "Roboto-semi bold";
+    font-weight: 600;
+}
+.Roboto800 {
+    font-family: "Roboto-extra bold";
+    font-weight: 800;
+}
+.Roboto900 {
+    font-family: "Roboto-black";
+    font-weight: 900;
+}
